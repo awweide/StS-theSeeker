@@ -1,0 +1,14 @@
+{
+"theSeeker:BottledSun": {
+        "NAME": "Bottled Sun",
+        "DESCRIPTIONS": ["Apply ", " #yDazzled to ALL enemies."]
+},
+"theSeeker:EpiphanyAuLaitPotion": {
+        "NAME": "Epiphany au Lait",
+        "DESCRIPTIONS": ["Gain ", " #yDominion."]
+},
+"theSeeker:FoodForThoughtPotion": {
+        "NAME": "Food for Thought",
+        "DESCRIPTIONS": ["Add ", " #yDialogue cards to your hand."]
+}
+}

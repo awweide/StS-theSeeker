@@ -1,0 +1,71 @@
+{
+"theSeeker:BoundlessImaginationPower": {
+        "NAME": "Boundless Imagination",
+        "DESCRIPTIONS": ["Whenever you change #yStances, gain #b",
+                " #yInspiration."]
+},
+"theSeeker:UnquenchableThirstPower": {
+        "NAME": "Unquenchable Thirst",
+        "DESCRIPTIONS": ["Whenever you enter    Neutral #yStance, immediately enter #yPensive #yStance."]
+},
+"theSeeker:DecayingDexterityPower": {
+        "NAME": "Decaying Dexterity",
+        "DESCRIPTIONS": ["You temporarily have #b",
+                " extra Dexterity. Lose #b1 of these stacks each turn.",
+                " less Dexterity. Regain #b1 of these stacks each turn."]
+},
+"theSeeker:DecayingStrengthPower": {
+        "NAME": "Decaying Strength",
+        "DESCRIPTIONS": ["You temporarily have #b",
+                " extra Strength. Lose #b1 of these stacks each turn.",
+                " less Strength. Regain #b1 of these stacks each turn."]
+},
+"theSeeker:BlindsightPower": {
+        "NAME": "Blindsight",
+        "DESCRIPTIONS": ["At the start of your turn, add 1 #ySeeing #yBlind to your hand.",
+                " Upgrade it ",
+                " times."]
+},
+"theSeeker:ImpetuousPower": {
+        "NAME": "Impetuous Power",
+        "DESCRIPTIONS": ["Repeat the second attack in #yImpetuous Stance. (", " played this turn)"]
+},
+"theSeeker:InspirationPower": {
+        "NAME": "Inspiration Power",
+        "DESCRIPTIONS": ["#yInspiration stacks convert into #yDominion stacks which increase attack damage."]
+},
+"theSeeker:DominionPower": {
+        "NAME": "Dominion Power",
+        "DESCRIPTIONS": ["Deal #r", "% more #yAttack damage."]
+},
+"theSeeker:SphinxFormPower": {
+        "NAME": "Sphinx Form Power",
+        "DESCRIPTIONS": ["Gain #b", " #yInspiration at start of each turn."]
+},
+"theSeeker:DazzledPower": {
+        "NAME": "Dazzled Power",
+        "DESCRIPTIONS": ["Deal #r", "% less #yAttack damage."]
+},
+"theSeeker:AgogePower": {
+        "NAME": "Agoge Power",
+        "DESCRIPTIONS": ["At the start of each turn, draw ", " Strike or Defend card. It costs 0 this turn.", " Strike or Defend cards. They cost 0 this turn."]
+},
+"theSeeker:StoicismPower": {
+        "NAME": "Stoicism Power",
+        "DESCRIPTIONS": ["If you gain any #Inspiration this turn, gain #b",
+                "Since you gained #Inspiration this turn, gain #b",
+                "#yblock at end of turn."]
+},
+"theSeeker:MorningRoutinePower": {
+        "NAME": "Morning Routine Power",
+        "DESCRIPTIONS": ["At the start of your turn, add ",
+                " #yCleansing #yBrews to hand.",
+                " #yCleansing #yBrew to hand."]
+},
+"theSeeker:SpeakNoEvilPower": {
+        "NAME": "Speak No Evil Power",
+        "DESCRIPTIONS": ["At the start of your next #b",
+                " turns, add a #yCleansing #yBrew+ to hand.",
+                "turn, add a #yCleansing #yBrew+ to hand."]
+}
+}

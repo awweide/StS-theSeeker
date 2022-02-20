@@ -1,0 +1,115 @@
+[
+  {
+    "PROPER_NAME": "Dialogue",
+    "NAMES": [
+      "dialogue",
+      "dialogues"
+    ],
+    "DESCRIPTION": "#yDialogue is a 0-cost card with #yRetain, #yPonder and #yExhaust."
+  },
+  {
+    "PROPER_NAME": "Damnation",
+    "NAMES": [
+      "damnation"
+    ],
+    "DESCRIPTION": "At the beginning of its turn, the target loses HP equal to current stacks. Each turn or when applying more Damnation, double the stacks."
+  },
+  {
+    "PROPER_NAME": "Temporary",
+    "NAMES": [
+      "temporary",
+      "temporarily"
+    ],
+    "DESCRIPTION": "Temporary buffs and debuffs decay by #b1 stack each turn."
+  },
+  {
+    "PROPER_NAME": "Dazzled",
+    "NAMES": [
+      "dazzled"
+    ],
+    "DESCRIPTION": "Deal #r10% less #yAttack damage per stack. Stacks multiplicatively and disappears at end of turn."
+  },
+  {
+    "PROPER_NAME": "Impetuous",
+    "NAMES": [
+      "impetuous"
+    ],
+    "DESCRIPTION": "Play the #ysecond attack in #bthis NL Stance this turn twice. NL Take #r50% more #yAttack damage."
+  },
+  {
+    "PROPER_NAME": "Pensive",
+    "NAMES": [
+      "pensive"
+    ],
+    "DESCRIPTION": "Upon exiting this #yStance, gain #b1 [E] ."
+  },
+  {
+    "PROPER_NAME": "Ponder",
+    "NAMES": [
+      "ponder"
+    ],
+    "DESCRIPTION": "Enter the next #yStance: #yNeutral to #yPensive to #yImpetuous to #yNeutral."
+  },
+  {
+    "PROPER_NAME": "Preface",
+    "NAMES": [
+      "preface"
+    ],
+    "DESCRIPTION": "If this is the first card you play this turn, gain #b1 [E] ."
+  },
+  {
+    "PROPER_NAME": "Inspiration",
+    "NAMES": [
+      "inspiration"
+    ],
+    "DESCRIPTION": "After gaining enough #yInspiration, exchange stacks for #b1 #yDominion. Exchange rate increases each time."
+  },
+  {
+    "PROPER_NAME": "Dominion",
+    "NAMES": [
+      "dominion"
+    ],
+    "DESCRIPTION": "Deal #r25% more #yAttack damage per stack."
+  },
+  {
+    "PROPER_NAME": "Stoicism",
+    "NAMES": [
+      "stoicism"
+    ],
+    "DESCRIPTION": "Upon gaining #yInspiration, gain #b1 block per stack."
+  },
+  {
+    "PROPER_NAME": "Experience",
+    "NAMES": [
+      "experience"
+    ],
+    "DESCRIPTION": "#yAttack or #yBlock value is permanently increased by #b1 per stack."
+  },
+  {
+    "PROPER_NAME": "Cleansing Brew",
+    "NAMES": [
+      "Cleansing Brew",
+      "cleansing_brew",
+      "cleansing_brews"
+    ],
+    "DESCRIPTION": "#yCleansing #yBrew is a 0-cost card with #yPreface and #yExhaust."
+  },
+  {
+    "NAMES": [
+      "keyword",
+      "keywords"
+    ],
+    "DESCRIPTION": "Whenever you play a card, gain 1 dexterity this turn only."
+  },
+  {
+    "PROPER_NAME": "Multiword Keyword",
+    "NAMES": [
+      "Multiword Keyword",
+      "multiword_keyword",
+      "multiword_keywords",
+      "multikey",
+      "multikeyword"
+    ],
+    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+  }
+]

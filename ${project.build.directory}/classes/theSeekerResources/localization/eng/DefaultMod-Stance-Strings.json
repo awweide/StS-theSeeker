@@ -1,0 +1,14 @@
+{
+  "theSeeker:PensiveStance": {
+    "NAME": "Pensive",
+    "DESCRIPTION": [
+      "Upon exiting this Stance, gain #b1 [E]."
+    ]
+  },
+  "theSeeker:ImpetuousStance": {
+    "NAME": "Impetuous",
+    "DESCRIPTION": [
+      "Play the #ysecond attack in #bthis NL Stance this turn twice. NL Take #r50% more #yAttack damage."
+    ]
+  }
+}

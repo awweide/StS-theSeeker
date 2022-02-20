@@ -1,0 +1,151 @@
+{
+"theSeeker:SuzuriBakoPower": {
+        "NAME": "Suzuri-bako",
+        "DESCRIPTIONS": ["The next time you gain #yBlock from a card, gain twice as much #yBlock."
+        ]
+},
+"theSeeker:DamnationPower": {
+        "NAME": "Damnation",
+        "DESCRIPTIONS": ["At the beginning of its turn, the target loses #b",
+                " HP. Each turn or when applying more Damnation, double the stacks."
+]
+},
+"theSeeker:ObscurantismPower": {
+"NAME": "Obscurantism",
+"DESCRIPTIONS": ["At the start of each turn, apply #b",
+        " #yDazzled to all enemies."
+]
+},
+"theSeeker:ArrogancePower": {
+        "NAME": "Arrogance",
+        "DESCRIPTIONS": ["Whenever you gain Block this turn, deal #b",
+                " damage to a random enemy."
+        ]
+},
+"theSeeker:LikeButterflyPower": {
+"NAME": "Like Butterfly",
+"DESCRIPTIONS": ["When you enter a particular Stance for the first time this turn, draw #b",
+        " card.",
+        " cards."
+]
+},
+"theSeeker:DoubleBlockPower": {
+        "NAME": "Double Block",
+        "DESCRIPTIONS": ["Gain twice as much Block from cards this turn.",
+                "Gain twice as much Block from cards for #b",
+                " turns."
+        ]
+},
+"theSeeker:RefutationPower": {
+        "NAME": "Refutation",
+        "DESCRIPTIONS": ["Gain twice as much Block from cards the next turn.",
+                "Gain twice as much Block from cards the next #b",
+                " turns."
+        ]
+},
+"theSeeker:InsomniaPower": {
+        "NAME": "Insomnia",
+        "DESCRIPTIONS": ["At the end of your turn, play ",
+                " random card from your hand.",
+                " random cards from your hand."
+        ]
+},
+"theSeeker:ClairvoyancePower": {
+        "NAME": "Clairvoyance",
+        "DESCRIPTIONS": ["When you draw a 0 cost card, set its cost to 1. At the start of your turn, draw ",
+                " additional card.",
+                " additional cards."
+]
+},
+"theSeeker:ThirstForImmortalityPower": {
+"NAME": "Thirst for Immortality",
+"DESCRIPTIONS": ["You temporarily have ",
+        " extra potion slot. It goes away at the end of combat.",
+        " extra potion slots. They go away at the end of combat."
+]
+},
+"theSeeker:OneWithNothingPower": {
+"NAME": "One With Nothing",
+"DESCRIPTIONS": ["At the start of your next turn, draw 5 cards and gain 3 energy.",
+        "At the start of your next ", " turns, draw 5 cards and gain 3 energy."
+]
+},
+"theSeeker:BoundlessImaginationPower": {
+"NAME": "Boundless Imagination",
+"DESCRIPTIONS": ["Whenever you change #yStances, gain #b",
+        " #yInspiration."]
+},
+"theSeeker:UnquenchableThirstPower": {
+        "NAME": "Unquenchable Thirst",
+        "DESCRIPTIONS": ["Whenever you enter    Neutral #yStance, immediately enter #yPensive #yStance."]
+},
+"theSeeker:DecayingDexterityPower": {
+        "NAME": "Decaying Dexterity",
+        "DESCRIPTIONS": ["You temporarily have #b",
+                " extra Dexterity. Lose #b1 of these stacks each turn.",
+                " less Dexterity. Regain #b1 of these stacks each turn."]
+},
+"theSeeker:DecayingStrengthPower": {
+        "NAME": "Decaying Strength",
+        "DESCRIPTIONS": ["You temporarily have #b",
+                " extra Strength. Lose #b1 of these stacks each turn.",
+                " less Strength. Regain #b1 of these stacks each turn."]
+},
+"theSeeker:BlindsightPower": {
+        "NAME": "Blindsight",
+        "DESCRIPTIONS": ["At the start of your turn, add 1 #ySeeing #yBlind to your hand.",
+                " Upgrade it ",
+                " times."]
+},
+"theSeeker:PresciencePower": {
+        "NAME": "Prescience",
+        "DESCRIPTIONS": ["Increases Block gained from cards by ",
+                ". (Counts #yInspiration stacks as Dexterity once for each Prescience stack.)"]
+},
+"theSeeker:ImpetuousPower": {
+        "NAME": "Impetuous Power",
+        "DESCRIPTIONS": ["Repeat the second attack in #yImpetuous Stance. (",
+                "Will trigger on the next attack.)",
+                " more attacks to trigger.)",
+                "Will not trigger again.)"
+        ]
+},
+"theSeeker:InspirationPower": {
+        "NAME": "Inspiration Power",
+        "DESCRIPTIONS": ["#yInspiration stacks convert into #yDominion stacks which increase attack damage."]
+},
+"theSeeker:DominionPower": {
+        "NAME": "Dominion Power",
+        "DESCRIPTIONS": ["Deal #r", "% more #yAttack damage."]
+},
+"theSeeker:SphinxFormPower": {
+        "NAME": "Sphinx Form Power",
+        "DESCRIPTIONS": ["Gain #b", " #yInspiration at start of each turn."]
+},
+"theSeeker:DazzledPower": {
+        "NAME": "Dazzled Power",
+        "DESCRIPTIONS": ["Deal #r", "% less #yAttack damage."]
+},
+"theSeeker:AgogePower": {
+        "NAME": "Agoge Power",
+        "DESCRIPTIONS": ["At the start of each turn, draw ", " Strike or Defend card. It costs 0 this turn.", " Strike or Defend cards. They cost 0 this turn."]
+},
+"theSeeker:StoicismPower": {
+        "NAME": "Stoicism Power",
+        "DESCRIPTIONS": ["If you gain any #Inspiration this turn, gain #b",
+                "Since you gained #Inspiration this turn, gain #b",
+                "#yblock at end of turn."]
+},
+"theSeeker:MorningRoutinePower": {
+        "NAME": "Morning Routine Power",
+        "DESCRIPTIONS": ["At the start of your turn, add ",
+                " #yCleansing #yBrews to hand.",
+                " #yCleansing #yBrew to hand."]
+},
+"theSeeker:SpeakNoEvilPower": {
+        "NAME": "Speak No Evil Power",
+        "DESCRIPTIONS": ["At the start of your next #b",
+                " turns, add a #yCleansing #yBrew+ to hand.",
+                "turn, add a #yCleansing #yBrew+ to hand."]
+}
+}

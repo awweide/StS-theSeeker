@@ -1,0 +1,97 @@
+{
+  "theSeeker:SuzuriBakoRelic": {
+    "NAME": "Suzuri-bako",
+    "FLAVOR": "Perhaps the heaviest weights we lift are our feelings",
+    "DESCRIPTIONS": [
+      "Every #b10th time you gain #yBlock from a card, gain twice as much #yBlock."
+    ]
+  },
+  "theSeeker:BlackAnvilRelic": {
+    "NAME": "Black Anvil",
+    "FLAVOR": "Perhaps the heaviest weights we lift are our feelings",
+    "DESCRIPTIONS": [
+      "Whenever you play a card costing #b2 or more, gain [E]]."
+    ]
+  },
+  "theSeeker:ThePrinceRelic": {
+    "NAME": "The Prince",
+    "FLAVOR": "...and then, they will always be faithful to him.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, ALL enemies lose #b2 #yTemporary #yStrength."
+    ]
+  },
+  "theSeeker:ApocryphaRelic": {
+    "NAME": "Apocrypha",
+    "FLAVOR": "Not part of the accepted canon.",
+    "DESCRIPTIONS": [
+      "When you exit #yPensive #yStance, gain #b1 #yInspiration."
+    ]
+  },
+  "theSeeker:DialoguesRelic": {
+    "NAME": "Dialogues",
+    "FLAVOR": "What I do not know, I don't think I do.",
+    "DESCRIPTIONS": [
+      "At the start of each turn, add a #yDialogue into your hand."
+    ]
+  },
+  "theSeeker:MeditationsRelic": {
+    "NAME": "Meditations",
+    "FLAVOR": "Waste no more time arguing about what a good man should be.",
+    "DESCRIPTIONS": [
+      "At the start of each turn, #yPonder."
+    ]
+  },
+  "theSeeker:TinPeacockRelic": {
+    "NAME": "Tin Peacock",
+    "FLAVOR": "Fortune favors the arrogant.",
+    "DESCRIPTIONS": [
+      "When #yImpetuous #yStance repeats an attack, reset its attack counter."
+    ]
+  },
+  "theSeeker:LekythosRelic": {
+    "NAME": "Lekythos",
+    "FLAVOR": "A jar of wonders.",
+    "DESCRIPTIONS": [
+      "At the start of combat, gain #b2 #yTemporary #yStrength."
+    ]
+  },
+  "theSeeker:BedOfNailsRelic": {
+    "NAME": "Bed Of Nails",
+    "FLAVOR": "Comfort is weakness entering the body.",
+    "DESCRIPTIONS": [
+      "#yPreface triggers also for the second card played each turn ."
+    ]
+  },
+  "theSeeker:PlaceholderRelic": {
+    "NAME": "Placeholder Energy Relic",
+    "FLAVOR": "The snake is a friend.",
+    "DESCRIPTIONS": [
+      "Gain #b1 [E] ."
+    ]
+  },
+  "theSeeker:PlaceholderRelic2": {
+    "NAME": "Placeholder Relic 2",
+    "FLAVOR": "You feel stronger.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yStrength."
+    ]
+  },
+  "theSeeker:DefaultClickableRelic": {
+    "NAME": "Right-Clicky Relic",
+    "FLAVOR": "The more you right-click it, the more orbs you've evoked in your lifetime.",
+    "DESCRIPTIONS": [
+      "[#2aecd7]Usable [#2aecd7]once [#2aecd7]per [#2aecd7]turn.[] NL #yEvoke your rightmost Orb.",
+      "YOU ARE MINE!"
+    ]
+  },
+  "theSeeker:BottledPlaceholderRelic": {
+    "NAME": "Bottled Placeholder",
+    "FLAVOR": "What is this?",
+    "DESCRIPTIONS": [
+      "Choose a card. Whenever you take play any card, draw the chosen card.",
+      "Whenever you play a card, draw ",
+      ".",
+      "Select a card to bottle for "
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "theSeeker:StrikeSeeker": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theSeeker:DefendSeeker": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "theSeeker:Escalate": {
+    "NAME": "Escalate",
+    "DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Enter theseeker:Impetuous stance."
+  },
+  "theSeeker:Normalize": {
+    "NAME": "Normalize",
+    "DESCRIPTION": "Deal !D! damage. NL Exit stance."
+  },
+  "theSeeker:CondemnTheWayward": {
+    "NAME": "Condemn the Wayward",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL If you have theseeker:Inspiration, lose it and deal !D! damage to ALL enemies."
+  },
+  "theSeeker:Rehearse": {
+    "NAME": "Rehearse",
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle this card into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Shuffle this card into your draw pile."
+  },
+  "theSeeker:ShoulderTheWheel": {
+    "NAME": "Shoulder the Wheel",
+    "DESCRIPTION": "Gain !B! Block and deal !D! damage X times. NL Preface."
+  },
+  "theSeeker:SizeUp": {
+    "NAME": "Size Up",
+    "DESCRIPTION": "Deal !D! damage. NL Shuffle 2 *Exterminates into your draw pile. NL  Exhaust.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL Shuffle 2 *Exterminates into your draw pile. NL Draw 2 cards. NL Exhaust."
+  },
+  "theSeeker:Assert": {
+    "NAME": "Assert",
+    "DESCRIPTION": "Deal !D! damage. NL theseeker:Temporarily gain !M! Strength."
+  },
+  "theSeeker:Compromise": {
+    "NAME": "Compromise",
+    "DESCRIPTION": "Deal !D! damage. NL If you are in Neutral Stance, apply !M! Vulnerable."
+  },
+  "theSeeker:DigDeep": {
+    "NAME": "Dig Deep",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL Draw !M! cards."
+  },
+  "theSeeker:Summarize": {
+    "NAME": "Summarize",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL If you have 0 energy, do it again."
+  },
+  "theSeeker:LashOut": {
+    "NAME": "Lash Out",
+    "DESCRIPTION": "Deal !D! damage. NL theseeker:Ponder."
+  },
+  "theSeeker:QuickAndEasy": {
+    "NAME": "Quick and Easy",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Play a random 0 cost Attack from your draw pile."
+  },
+  "theSeeker:KeepItSimple": {
+    "NAME": "Keep It Simple",
+    "DESCRIPTION": "Deal !D! damage. NL Deals !M! more damage if you have no theseeker:Inspiration."
+  },
+  "theSeeker:AsceticStrike": {
+    "NAME": "Ascetic Strike",
+    "DESCRIPTION": "Deal !D! damage twice. NL Gain 1 Strength if you have !M! or less Strength."
+  },
+  "theSeeker:ShowAndTell": {
+    "NAME": "Show And Tell",
+    "DESCRIPTION": "Deal !D! damage and apply 1 theseeker:Dazzled !M! times."
+  },
+  "theSeeker:Thesis": {
+    "NAME": "Thesis",
+    "DESCRIPTION": "Deal !D! damage. NL  Gain !M! theseeker:Inspiration."
+  },
+  "theSeeker:HammerItHome": {
+    "NAME": "Hammer It Home",
+    "DESCRIPTION": "Deal !D! damage !M! times. Hits once more for each time you have played this card in this combat."
+  },
+  "theSeeker:MorningLecture": {
+    "NAME": "Morning Lecture",
+    "DESCRIPTION": "theseeker:Preface NL Deal !D! damage to ALL enemies."
+  },
+  "theSeeker:LightExercise": {
+    "NAME": "Light Exercise",
+    "DESCRIPTION": "Deal !D! damage. Gain !M! theseeker:Inspiration."
+  },
+  "theSeeker:PlayItByEar": {
+    "NAME": "Play It By Ear",
+    "DESCRIPTION": "Deal !D! damage. NL Play a random 0 cost Attack from your draw pile."
+  },
+  "theSeeker:HangmansParadox": {
+    "NAME": "Hangman's Paradox",
+    "DESCRIPTION": "Deal !D! damage and apply 13 Vulnerable. If this kills an enemy, trigger theseeker:Preface !M! time.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and apply 13 Vulnerable. If this kills an enemy, trigger theseeker:Preface !M! times."
+  },
+  "theSeeker:LearningByFlailing": {
+    "NAME": "LearningByFlailing",
+    "DESCRIPTION": "Deal !D! damage. NL If Fatal, apply 1 theseeker:Experience to a random Strike and a random Defend card. NL Exhaust"
+  },
+  "theSeeker:MartialTradition": {
+    "NAME": "Martial Tradition",
+    "DESCRIPTION": "Deal !D! damage to a random enemy. NL Gain !B! Block. NL Upgrade ALL Strikes and Defends. NL  Exhaust."
+  },
+  "theSeeker:StreamOfConsciousness": {
+    "NAME": "Stream of Consciousness",
+    "DESCRIPTION": "Gain !B! Block. NL Play a random Skill from your Discard pile."
+  },
+  "theSeeker:ParadigmShift": {
+    "NAME": "Paradigm Shift",
+    "DESCRIPTION": "If in theseeker:Impetuous Stance, gain !M! energy. NL If in theseeker:Pensive Stance, draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "Retain. NL If in theseeker:Impetuous Stance, gain !M! energy. NL If in theseeker:Pensive Stance, draw !M! cards."
+  },
+  "theSeeker:RoteLearning": {
+    "NAME": "Rote Learning",
+    "DESCRIPTION": "Draw a card for each Strike and Defend in hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Draw a card for each Strike and Defend in hand."
+  },
+  "theSeeker:QualityOverQuantity": {
+    "NAME": "Quality Over Quantity",
+    "DESCRIPTION": "Innate. NL For each enemy, gain 1 theseeker:Inspiration and apply !M! theseeker:Dazzled to it. NL Exhaust."
+  },
+  "theSeeker:GiftOfTheSphinx": {
+    "NAME": "Gift of the Sphinx",
+    "DESCRIPTION": "Play a Power, Skill and Attack from your Draw pile."
+  },
+  "theSeeker:RedHerring": {
+    "NAME": "Red Herring",
+    "DESCRIPTION": "Gain !B! Block. NL theseeker:Temporarily gain !M! Dexterity."
+  },
+  "theSeeker:BeLikeWater": {
+    "NAME": "Be Like Water",
+    "DESCRIPTION": "Gain !B! Block. NL theseeker:Ponder."
+  },
+  "theSeeker:SelfTherapy": {
+    "NAME": "Self Therapy",
+    "DESCRIPTION": "Draw !M! cards. NL theseeker:Ponder."
+  },
+  "theSeeker:Hypothetical": {
+    "NAME": "Hypothetical",
+    "DESCRIPTION": "Gain !B! Block. NL Gain 1 theseeker:Inspiration."
+  },
+  "theSeeker:LineOfReasoning": {
+    "NAME": "Line of Reasoning",
+    "DESCRIPTION": "Gain !B! Block. NL Play a random 1 cost Skill from your discard pile.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Play a random 1 and a 0 cost Skill from your discard pile."
+  },
+  "theSeeker:Eminence": {
+    "NAME": "Eminence",
+    "DESCRIPTION": "Gain !B! Block. NL Double your theseeker:Inspiration."
+  },
+  "theSeeker:Dissent": {
+    "NAME": "Dissent",
+    "DESCRIPTION": "Enter theseeker:Impetuous Stance. NL Gain !M! theseeker:Inspiration."
+  },
+  "theSeeker:HearNoEvil": {
+    "NAME": "Hear No Evil",
+    "DESCRIPTION": "Gain !B! Block for each enemy in combat."
+  },
+  "theSeeker:SeeNoEvil": {
+    "NAME": "See No Evil",
+    "DESCRIPTION": "Gain !B! Block. NL Apply !M! theseeker:Dazzled to a random enemy."
+  },
+  "theSeeker:SpeakNoEvil": {
+    "NAME": "Speak No Evil",
+    "DESCRIPTION": "Enter theseeker:Pensive Stance. NL Whenever you are attacked this turn, deal !M! damage back.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Enter theseeker:Pensive Stance. NL Whenever you are attacked this turn, deal !M! damage back."
+  },
+  "theSeeker:MorningPrayer": {
+    "NAME": "Morning Prayer",
+    "DESCRIPTION": "theseeker:Preface NL Gain !B! Block."
+  },
+  "theSeeker:Contemplate": {
+    "NAME": "Contemplate",
+    "DESCRIPTION": "Shuffle an *Exterminate into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an *Exterminate into your draw pile. NL Enter theseeker:Pensive Stance. NL Exhaust."
+  },
+  "theSeeker:Enlightenment": {
+    "NAME": "Enlightenment",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! theseeker:Dominion. NL Exhaust."
+  },
+  "theSeeker:Exterminate": {
+    "NAME": "Exterminate",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theSeeker:SeeingBlind": {
+    "NAME": "Seeing Blind",
+    "DESCRIPTION": "Gain !B! Block X times. NL Exhaust."
+  },
+  "theSeeker:CleansingBrew": {
+    "NAME": "Cleansing Brew",
+    "DESCRIPTION": "theseeker:Preface NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "theseeker:Preface NL Draw 1 card. NL Exhaust."
+  },
+  "theSeeker:BoundlessImagination": {
+    "NAME": "Boundless Imagination",
+    "DESCRIPTION": "Whenever you change Stances, gain 1 theseeker:Inspiration."
+  },
+  "theSeeker:UnquenchableThirst": {
+    "NAME": "Unquenchable Thirst",
+    "DESCRIPTION": "Whenever you enter #yNeutral Stance, immediately enter theseeker:Pensive Stance."
+  },
+  "theSeeker:Blindsight": {
+    "NAME": "Blindsight",
+    "DESCRIPTION": "At the start of your turn, add a #ySeeing #yBlind to your hand. NL  Additional plays increase its power."
+  },
+  "theSeeker:Agoge": {
+    "NAME": "Agoge",
+    "DESCRIPTION": "At the start of your turn, draw a random Strike or Defend. It costs 0 this turn.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, draw a random Strike or Defend. It costs 0 this turn."
+  },
+  "theSeeker:MasterReality": {
+    "NAME": "Master Reality",
+    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is created during combat, Upgrade it."
+  },
+  "theSeeker:Stoicism": {
+    "NAME": "Stoicism",
+    "DESCRIPTION": "Gain !M! theseeker:Stoicism."
+  },
+  "theSeeker:MorningRoutine": {
+    "NAME": "Morning Routine",
+    "DESCRIPTION": "At the start of each turn, add a theseeker:Cleansing_Brew to your hand."
+  },
+  "theSeeker:SphinxForm": {
+    "NAME": "Sphinx Form",
+    "DESCRIPTION": "Gain !M! theseeker:Inspiration at the start of each turn."
+  },
+  "theSeeker:DefaultCommonPower": {
+    "NAME": "Hold Place",
+    "DESCRIPTION": "Gain !M! theseeker:Keyword.",
+    "UPGRADE_DESCRIPTION": "Gain !M! theseeker:Keywords."
+  },
+  "theSeeker:DefaultUncommonAttack": {
+    "NAME": "Big slap",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theSeeker:DefaultUncommonSkill": {
+    "NAME": "A Better Defend",
+    "DESCRIPTION": "Gain !B! Plated Armor. Affected by Dexterity."
+  },
+  "theSeeker:DefaultUncommonPower": {
+    "NAME": "Weirdness",
+    "DESCRIPTION": "Gain X theseeker:Keywords.",
+    "UPGRADE_DESCRIPTION": "Gain X +1 theseeker:Keywords."
+  },
+  "theSeeker:DefaultRareAttack": {
+    "NAME": "TOUCH",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "theSeeker:DefaultRareSkill": {
+    "NAME": "For Each Loop x2",
+    "DESCRIPTION": "Apply !M! Vulnerable to all enemies, 2 times.",
+    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to all enemies, 3 times."
+  },
+  "theSeeker:DefaultRarePower": {
+    "NAME": "In-Progress Form",
+    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  },
+  "theSeeker:DefaultAttackWithVariable": {
+    "NAME": "Special Strike",
+    "DESCRIPTION": "Deal !D! damage [E] times. NL (Deal !theSeeker:ENERGY_DAMAGE! damage total.)"
+  },
+  "theSeeker:DefaultSecondMagicNumberSkill": {
+    "NAME": "Cool 2 Number Card",
+    "DESCRIPTION": "Apply !M! Vulnerable and !theSeeker:SecondMagic! poison to an enemy."
+  },
+  "theSeeker:OrbSkill": {
+    "NAME": "Get Orb",
+    "DESCRIPTION": "Channel 1 Default Orb."
+  }
+}
